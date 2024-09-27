@@ -1,0 +1,47 @@
+.seccion-style {
+    display: flex;
+    flex-direction: column
+}
+
+.items {
+    display: flex;
+    flex-direction: row;
+    border-radius: 3px;
+    align-items: center;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 40px;
+}    
+
+.cart-table__content {
+    display: flex;
+    width: 15%;
+}
+
+.col-cart-table__head {
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    font-size: 240px;
+    
+}
+
+.cart-section {
+    display: flex;
+    width: 40%;
+    margin-right: 40px;
+}
+
+.cart-footer {
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+}
+
+.container-logo {
+    width: 20%;
+}

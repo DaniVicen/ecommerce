@@ -1,0 +1,42 @@
+.seccion-style {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.seccion-style img {
+    border-radius: 4px;
+    width: 50%;
+    height: 320px;
+    margin-top: 4px;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-bottom: 2px;
+    width: auto;
+}
+
+.seccion-style h1 {
+
+    font-weight:bold;
+    color: whitesmoke;
+}
+
+.general-container {
+    width: 100%;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-top: 1px;
+    height: 320px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-logo-2 {
+    width: 2px;
+    margin-top: 12px;
+}
+.container-logos img {
+    width: 120px;
+    margin-top: 8px;
+
+}

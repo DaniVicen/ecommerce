@@ -1,0 +1,16 @@
+.cart-container-icon {
+    width: 2000px;
+}
+
+.item-cart-prod {
+    display: flex;
+    flex-direction: row;
+}
+
+.cart-prod__image {
+    width: 44px
+}
+
+.container-item-list-cart {
+    width: 800px;
+}
